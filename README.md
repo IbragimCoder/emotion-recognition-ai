@@ -130,7 +130,7 @@ create_model.py — Script to train the pipeline and save the .pkl file.
 
 
 
-emotion_model.pkl — Serialized ML model (the "brain").
+emotion_model.joblib — Serialized ML model (the "brain").
 
 
 
