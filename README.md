@@ -1,6 +1,6 @@
 # AI Emotion Recognition System
 
-**Live Demo:**
+**Live Demo:**  https://emotion-recognition-ai-dk3zqgbsee9rzx6g8ewes5.streamlit.app/
 
 #
 #
